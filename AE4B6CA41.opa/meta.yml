@@ -1,0 +1,25 @@
+id: AE4B6CA41
+title: The Prayer of the Words of Truth
+type: translation
+pechas:
+- I482D6852
+- IA02222CB
+- I836870B0
+- I814847C1
+source_metadata:
+  languages:
+  - en
+  - de
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:52:31.341900
+  last_modified_at: 2023-01-04 11:52:31.341912
+  collections:
+  - Fourteenth Dalai Lama Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I482D6852/8733: DD68
+  IA02222CB/49B6: DD68
+  I836870B0/54BC: DD68
+  I814847C1/9C04: DD68
